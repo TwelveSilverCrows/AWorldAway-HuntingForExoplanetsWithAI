@@ -1,4 +1,3 @@
-# AWorldAway-HuntingForExoplanetsWithAI
 # A World Away: Hunting for Exoplanets with AI
 
 **Machine learning for automated exoplanet classification using NASA mission data**
