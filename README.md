@@ -89,7 +89,6 @@ When a planet passes between its host star and an observing spacecraft, the meas
 
 This gives the machine learning problem a meaningful physical basis. Variables in the dataset correspond to measurable properties of astronomical observations rather than arbitrary numerical features.
 
-That makes the project an example of **domain-informed machine learning**, where understanding the underlying problem helps guide the computational approach.
 
 ---
 
@@ -127,7 +126,6 @@ That required more than implementing a model. The project had to communicate:
 7. What the resulting models tell us.
 8. How machine learning can contribute to scientific research.
 
-This makes the repository both a technical project and an example of **technical communication and knowledge sharing**.
 
 ---
 
@@ -141,7 +139,6 @@ AWorldAway-HuntingForExoplanetsWithAI/
 └── README.md          # Project documentation
 ```
 
-The repository currently contains the analysis notebook and the associated exoplanet dataset.
 
 ---
 
