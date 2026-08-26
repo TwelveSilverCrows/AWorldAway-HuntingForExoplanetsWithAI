@@ -7,7 +7,7 @@ This project was created as a practical demonstration for members of **Durham Un
 
 The project was inspired by NASA's **A World Away: Hunting for Exoplanets with AI** challenge and uses publicly available exoplanet data to demonstrate the difference between **supervised and unsupervised machine learning**, from data preparation through to model interpretation.
 
-The repository contains the analysis notebook and an exoplanet dataset used throughout the demonstration. ([GitHub][1])
+The repository contains the analysis notebook and an exoplanet dataset used throughout the demonstration.
 
 ---
 
@@ -142,7 +142,7 @@ AWorldAway-HuntingForExoplanetsWithAI/
 └── README.md          # Project documentation
 ```
 
-The repository currently contains the analysis notebook and the associated exoplanet dataset. ([GitHub][1])
+The repository currently contains the analysis notebook and the associated exoplanet dataset.
 
 ---
 
@@ -150,7 +150,7 @@ The repository currently contains the analysis notebook and the associated exopl
 
 The project was based on NASA's **A World Away: Hunting for Exoplanets with AI** challenge.
 
-The original challenge asks participants to build an AI or machine learning system using NASA's open-source exoplanet datasets, with the aim of identifying exoplanets and providing a way for users to interact with the resulting system. It specifically highlights datasets from missions including Kepler, K2 and TESS, as well as the importance of preprocessing and model selection. ([GitHub][1])
+The original challenge asks participants to build an AI or machine learning system using NASA's open-source exoplanet datasets, with the aim of identifying exoplanets and providing a way for users to interact with the resulting system. It specifically highlights datasets from missions including Kepler, K2 and TESS, as well as the importance of preprocessing and model selection.
 
 This project focuses on the machine learning side of that challenge and uses it as a practical vehicle for demonstrating core ML concepts.
 
@@ -211,7 +211,7 @@ The project was created in response to the NASA Space Apps Challenge prompt:
 
 **A World Away: Hunting for Exoplanets with AI**
 
-The challenge highlights the growing volume of exoplanetary data produced by missions such as Kepler, K2 and TESS, and the opportunity for machine learning to assist with the identification of exoplanets within those datasets. ([GitHub][1])
+The challenge highlights the growing volume of exoplanetary data produced by missions such as Kepler, K2 and TESS, and the opportunity for machine learning to assist with the identification of exoplanets within those datasets.
 
 ---
 
